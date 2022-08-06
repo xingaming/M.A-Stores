@@ -1,0 +1,8 @@
+#a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   #b{
+       margin-top: 60px;
+   }
